@@ -1,0 +1,43 @@
+ul {
+	list-style: none;
+}
+
+* {
+	box-sizing: border-box;
+}
+
+/*CLASS FOR BODY AND HEADER */
+.font1{
+	font-family: Arial, Helvetica, serif;
+	margin: 0;
+	padding: 0;
+}
+
+h1 {
+	font-size: 300%;
+	margin-bottom: 0px;
+}
+
+#upperpart {
+	background-color: coral;
+	text-align: center;
+
+}
+ section {
+ 	text-align: center;
+ 	height: 600px;
+ }
+#section1 {
+	color: white;
+	background-color: black;
+}
+
+
+a:link, a:visited{
+	text-decoration: none;
+	color: black;
+}
+
+footer {
+	height: 200px;
+}
